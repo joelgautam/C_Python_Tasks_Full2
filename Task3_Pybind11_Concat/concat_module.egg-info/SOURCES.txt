@@ -1,6 +1,0 @@
-concat.cpp
-setup.py
-concat_module.egg-info/PKG-INFO
-concat_module.egg-info/SOURCES.txt
-concat_module.egg-info/dependency_links.txt
-concat_module.egg-info/top_level.txt

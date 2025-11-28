@@ -1,0 +1,14 @@
+# Ignore build folders
+build/
+
+# Ignore compiled libraries
+*.so
+*.dylib
+*.pyd
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore setuptools/egg-info
+*.egg-info

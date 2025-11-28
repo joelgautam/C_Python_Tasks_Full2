@@ -1,6 +1,0 @@
-setup.py
-square.c
-square_module.egg-info/PKG-INFO
-square_module.egg-info/SOURCES.txt
-square_module.egg-info/dependency_links.txt
-square_module.egg-info/top_level.txt
