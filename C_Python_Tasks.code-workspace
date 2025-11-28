@@ -1,0 +1,14 @@
+{
+    "folders": [
+        { "path": "Task1_Square" },
+        { "path": "Task2_CTypes_String" },
+        { "path": "Task3_Pybind11_Concat" },
+        { "path": "Task5_Array_Module" }
+    ],
+    "settings": {
+        "python.pythonPath": "/usr/bin/python3",
+        "files.exclude": {
+            "**/__pycache__": true
+        }
+    }
+}

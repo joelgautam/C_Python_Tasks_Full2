@@ -1,0 +1,13 @@
+ctypes vs Extension Modules:
+
+ctypes:
+- Calls existing C libraries
+- Shared library (.so/.dll)
+- Easy to use
+- Type safety weak
+
+Extension Modules:
+- Built-in Python C module
+- Very fast
+- Strong type safety
+- More complex setup

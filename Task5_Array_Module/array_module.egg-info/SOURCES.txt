@@ -1,0 +1,6 @@
+arraylib.c
+setup.py
+array_module.egg-info/PKG-INFO
+array_module.egg-info/SOURCES.txt
+array_module.egg-info/dependency_links.txt
+array_module.egg-info/top_level.txt
